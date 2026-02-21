@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[44921,["/timlen-fitness/_next/static/chunks/ae9369899c359a25.js","/timlen-fitness/_next/static/chunks/7fd2b70eab092412.js","/timlen-fitness/_next/static/chunks/436e68fb34679c6e.js"],"default"]
+3:I[74907,["/timlen-fitness/_next/static/chunks/ae9369899c359a25.js","/timlen-fitness/_next/static/chunks/7fd2b70eab092412.js","/timlen-fitness/_next/static/chunks/436e68fb34679c6e.js"],"default"]
+0:{"buildId":"Ech0ePd1DBGudbkTXQCjM","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
